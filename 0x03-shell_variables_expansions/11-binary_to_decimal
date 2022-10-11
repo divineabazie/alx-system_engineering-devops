@@ -1,0 +1,2 @@
+#!/bin/bash
+$ echo 'base 2 * base 10' | bc
