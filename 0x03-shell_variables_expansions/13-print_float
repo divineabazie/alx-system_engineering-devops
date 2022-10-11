@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "%f/n" NUM="300"
+printf "%2f/n" $NUM
